@@ -1,4 +1,4 @@
-## S3 PHP Responsive Application System for Core PHP Project v1.0
+## S3 CMS Responsive Application System for Core PHP Project v0.1
 
 S3 Responsive Framework is a basic structure built for PHP Application integrated with Bootstrap Responsive Images and Less to start development more easily and faster.
  
